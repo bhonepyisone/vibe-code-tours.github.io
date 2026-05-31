@@ -1,10 +1,10 @@
 ---
-name: Your Name
-github: your-github-username
+name: Bhone Pyi Sone
+github: bhonepyisone
 cohort: 1
 role: builder
 skills: ["JavaScript", "Python", "Claude Code"]
-repo: https://github.com/your-github-username/your-project
+repo: https://github.com/bhonepyisone/vibecode-voz-test
 x: your-x-handle
 linkedin: your-linkedin-username
 website: https://your-site.com

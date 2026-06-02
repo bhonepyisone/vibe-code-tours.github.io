@@ -3,15 +3,14 @@ name: Bhone Pyi Sone
 github: bhonepyisone
 cohort: 1
 role: builder
-skills: ["JavaScript", "Python", "Claude Code"]
+skills: ["OpenCode", "Codex", "Claude Code", ]
 repo: https://github.com/bhonepyisone/vibecode-voz-test
 x: your-x-handle
-linkedin: your-linkedin-username
-website: https://your-site.com
+linkedin: in/bhone-pyae-sone-bps93
+website: [https://your-site.com](https://github.com/bhonepyisone)
 ---
 
-Hi! I'm learning to vibe-code with AI. My goal is to build and ship something
-real by Demo Day. Excited to be part of the Tour.
+Hi! I run a laptop trading business between Thailand and Myanmar. I keep up with tech as part of the job, and I build my own tools along the way to make things run smoother. Willing to create tools that can help the Myanmar community.
 
 <!--
 HOW TO ADD YOURSELF:

@@ -5,7 +5,6 @@ cohort: 1
 role: builder
 skills: ["OpenCode", "Codex", "Claude Code"]
 repo: https://github.com/bhonepyisone/vibecode-voz-test
-x: your-x-handle
 linkedin: in/bhone-pyae-sone-bps93
 website: https://github.com/bhonepyisone
 ---

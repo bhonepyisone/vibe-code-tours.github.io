@@ -19,7 +19,8 @@
     "contact": "ဆက်သွယ်ရန်",
     "setup": "ပြင်ဆင်ရန်",
     "builders": "Builders",
-    "cohort1": "Cohort 1"
+    "cohort1": "Cohort 1",
+    "gallery": "ပရောဂျက်ပြခန်း"
   },
   "footer": {
     "rights": "© 2026 Vibe Code Tours",
@@ -455,6 +456,34 @@
     "intro": "ဒီ Tour မှာ AI နဲ့ တည်ဆောက်နေသူတွေ။ တစ်ယောက်စီ repo ကို fork လုပ်၊ ကိုယ့်အကြောင်း ထည့်၊ တကယ့် PR ဖွင့်ခဲ့ကြတယ်။",
     "empty": "Builders မရှိသေးပါ။ ပထမဆုံးသူ ဖြစ်ပါ — repo ကို fork လုပ်ပြီး ကိုယ့်ကိုယ်ကို ထည့်ပါ။",
     "addYourself": "မိမိပရိုဖိုင်ထည့်ရန် → (fork + PR)"
+  },
+  "gallery": {
+    "title": "ပရောဂျက်ပြခန်း — Vibe Code Tours",
+    "description": "Cohort 1 builder များ တည်ဆောက်ခဲ့သော ကိုယ်ပိုင်ပရောဂျက်များ။",
+    "label": "Cohort 1",
+    "heading": "ပရောဂျက်ပြခန်း",
+    "intro": "Builder များ ဖန်တီးခဲ့သော ပရောဂျက်များ။ Slides ကြည့်ရှုရန် ပရောဂျက်တစ်ခုခုကို နှိပ်ပါ။",
+    "searchPlaceholder": "ပရောဂျက်များ ရှာရန်…",
+    "allTypes": "အားလုံး",
+    "anyStack": "မည်သည့် Stack မဆို",
+    "noMatches": "ကိုက်ညီမှု မရှိပါ။",
+    "empty": "ပရောဂျက်များ မရှိသေးပါ — မကြာမီ ပြန်လာကြည့်ပါ။",
+    "countUnit": "ပရောဂျက်",
+    "loadingSlides": "Slides များ ဖွင့်နေသည်…",
+    "slidesUnavailable": "Slides မရနိုင်ပါ — GitHub တွင် ဖွင့်ကြည့်ပါ ↗",
+    "liveBtn": "Live Site ↗",
+    "repoBtn": "Repo ↗",
+    "slidesBtn": "Slides ဖွင့်ရန် ↗",
+    "types": {
+      "web-app": "Web App",
+      "cli": "CLI",
+      "bot": "Bot",
+      "api": "API",
+      "mobile": "မိုဘိုင်း",
+      "game": "ဂိမ်း",
+      "library": "Library",
+      "other": "အခြား"
+    }
   },
   "repoAccess": {
     "title": "သင့်အသင်း Repo ရယူရန် — Vibe Code Tours",

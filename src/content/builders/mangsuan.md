@@ -1,17 +1,13 @@
 ---
-name: Bryan
-github: yannaingaung31
+name: Mang Suan Kim
+github: mangsuan
 cohort: 1
-role: builder 
-skills: ["Vibe Coding", "Business Strategy",  "Claude Code" , "HTML CSS"]
-
-
-certs:
-  claude_101: https://verify.skilljar.com/c/vhi3funz4uhs
-  claude_code_101: https://verify.skilljar.com/c/s85wbnd7zezh
+role: builder
+skills: ["JavaScript", "Python",  "Claude Code"]
 ---
 
-Hi! I'm Bryan and  currently riding the AI wave as an active learner. I'm deeply passionate about exploring the intersection of business intelligence, AI-powered development, and vibe-coding to quickly bring innovative ideas to life. Excited to connect with fellow makers and build something cool!
+Hi! I'm learning to vibe-code with AI. My goal is to build and ship something
+real by Demo Day. Excited to be part of the Tour.
 
 <!--
 HOW TO ADD YOURSELF
@@ -24,11 +20,24 @@ HOW TO ADD YOURSELF
 3. role: builder   (or: mentor | instructor)
 4. OPTIONAL — add a line ONLY if you have one. Otherwise leave it out entirely.
    DO NOT leave blank or "your-..." placeholder values — just delete the line.
+
+   CLAUDE CERTIFICATIONS (optional) — add a `certs:` block with the ones you
+   earned. Value = the Skilljar code OR the full verify URL. Known ids:
+     claude_101, claude_code_101, agent_skills_intro, subagents_intro,
+     mcp_intro, claude_code_in_action, building_claude_api, claude_platform_101,
+     claude_cowork, mcp_advanced, claude_bedrock, claude_vertex, ai_fluency
+   Example:
+     certs:
+       claude_101:      <skilljar-code>
+       claude_code_101: <verify-url>
+   Earned certs light up as colored stars on your card (grey = not yet).
+   ⚠ Cert ids go UNDER `certs:` (indented). At the top level they're ignored.
      skills:   ["Python", "React", "MCP"]
      repo:     https://github.com/<you>/<your-project>
      x:        your-x-handle            (handle or full URL)
      linkedin: your-linkedin-handle      (handle or full URL)
      website:  https://your-site.com
+     certs:    Claude certifications (Skilljar code OR verify URL)
 5. Write 2-3 sentences below the --- about yourself.
 6. Your photo is auto-pulled from your GitHub avatar — no upload.
 7. Commit, push to your fork, open a Pull Request.
